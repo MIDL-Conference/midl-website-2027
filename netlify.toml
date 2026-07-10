@@ -1,0 +1,3 @@
+[build]
+  command = "python -c \"import netlify_patch_mwb; import runpy; runpy.run_module('mwb', run_name='__main__')\" . output/"
+  publish = "output/"
