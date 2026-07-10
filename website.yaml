@@ -1,7 +1,7 @@
 title: "MIDL 2027"
-date: "XX-XX July 2027"
+date: "14-16 July 2027"
 theme: "midl-website-theme"
-primary-color: "#C87137"
+primary-color: "#1BA37B"
 content: "pages"
 
 www: "https://2027.midl.io"
@@ -15,10 +15,10 @@ show_twitter_feed: no
 num_tweets_in_feed: 1
 show_platform_icons: yes
 
-summary: "The Medical Imaging with Deep Learning conference will be held on Earth"
+summary: "The Medical Imaging with Deep Learning conference will be held in Porto"
 opengraph:
   description: "Medical Imaging with Deep Learning conference 2027"
-  image: "/images/Taipei1_small.jpg"
+  image: "/images/keyimage.jpeg"
 
 nav:
   - title: "Home"

@@ -5,10 +5,10 @@ page_class: home
 {% from "_macros.html" import newsletter %}
 
 # Medical Imaging with Deep Learning
-## Earth, July 2027
+## Porto, July 14-16 2027
 
 <p class="primary-photo centered">
-    <img alt="One does not get so easily into MIDL" src="/images/keyimage.jpg">
+    <img alt="MIDL 2027 will be held in beautiful Porto" src="/images/keyimage.jpeg">
 </p>
 
 {{ newsletter("2027.midl.io", inline=False) }}

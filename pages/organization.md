@@ -5,12 +5,19 @@ title: "Organization"
 # Organization
 
 ## General Chairs
-* Mithrandir, Rivendell Institute of Philosophy
-* Sauron, Technical University of Mordor
+* **Jaime S. Cardoso**, FEUP/INESCTEC, PT
+* **April Khademi**, Toronto Met, CA
+* **Hugo Horlings**, NKI, NL
 
-## Program Chairs
+
+## Local Chair
+* **Luís F. Teixeira**, FEUP/INESCTEC, PT
 
 
-## Local arrangement chairs
-* Beren
-* Lúthien
+## Organization
+* **Wilson Silva**, Utrecht University, NL
+* **Sara P. Oliveira**, NKI, NL
+* **Isabel Rio-Torto**, INESTEC, PT
+* **Inês Prata Machado**, Uni. Cambridge, UK
+* **Mara Graziani**, IBM Research, CH
+* **Diana Montezuma**, IMP Diagnostics, PT
