@@ -23,7 +23,7 @@ title: "Organization"
 * **Aniek Eijpe**, Utrecht University, NL
 * **Bruno Coelho**, INESCTEC, PT
 
-## Program Chairs
+## Communication Chairs
 * **Diana Montezuma**, IMP Diagnostics, PT
 * **Sara P. Oliveira**, NKI, NL
 * **Pedro C. Neto**, Unilabs/FEUP, PT
