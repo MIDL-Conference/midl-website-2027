@@ -1,8 +1,8 @@
 <!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/6d2989f9-1bbf-4224-92db-a828781511b9/deploy-status)](https://app.netlify.com/sites/midl-2026/deploys) -->
 
-# MIDL 2027 (???) website
+# MIDL 2027 website
 
-This repository contains the source code of the 2026.midl.io website.
+This repository contains the source code of the 2027.midl.io website.
 
 * Pages are files in `pages/` and can either be MarkDown (`.md`) or HTML (`.html`) files
 * Global settings, such as the navigation bar, are in `website.yaml`
