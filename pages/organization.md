@@ -5,12 +5,12 @@ title: "Organization"
 # Organization
 
 ## General Chairs
-* **Jaime S. Cardoso**, FEUP/INESCTEC, PT
+* **Jaime S. Cardoso**, FEUP & INESCTEC, PT
 * **April Khademi**, Toronto Met, CA
 * **Hugo Horlings**, NKI, NL
 
 ## Local Chair
-* **Luís F. Teixeira**, FEUP/INESCTEC, PT
+* **Luís F. Teixeira**, FEUP & INESCTEC, PT
 
 ## Program Chairs
 * **Wilson Silva**, Utrecht University, NL
@@ -26,7 +26,7 @@ title: "Organization"
 ## Communication Chairs
 * **Diana Montezuma**, IMP Diagnostics, PT
 * **Sara P. Oliveira**, NKI, NL
-* **Pedro C. Neto**, Unilabs/FEUP, PT
+* **Pedro C. Neto**, Unilabs & FEUP, PT
 
 ## Proceedings Chair
 * **Helena Montenegro**, INESCTEC, PT
