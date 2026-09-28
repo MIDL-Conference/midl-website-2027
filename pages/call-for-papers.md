@@ -25,14 +25,14 @@ Topics of interest include, but are not limited to:
 * Transfer learning, domain adaptation and generalisation, and learning with limited/noisy labels
 * Foundation models, vision-language models, and multimodal learning across imaging, text, omics, sensors, and clinical data
 * Generative AI, diffusion models, image synthesis, and synthetic data
-* Interactive tool-using, and agentic AI for clinical and medical-imaging workflows
+* Interactive tool-using and agentic AI for clinical and medical-imaging workflows
 * Uncertainty estimation, calibration, interpretability, explainability, and failure detection
 * Human+AI collaboration, clinical decision support, usability, and workflow integration
 * Federated, distributed, privacy-preserving, and secure learning
 * Safe, trustworthy, fair, transparent, and responsible AI
 * Data-centric AI, including dataset curation and annotation quality 
 * Continual learning, post-deployment monitoring, model updating, and data-drift detection
-* Reproducibility, open-science, robust benchmarking, and external, multicentre, or prospective validation across medical-imaging specialties
+* Reproducibility, open science, robust benchmarking, and external, multicenter, or prospective validation across medical-imaging specialties
 
 
 ## Full Papers
@@ -42,7 +42,7 @@ Topics of interest include, but are not limited to:
 <div style="text-align: justify">
 <p>The Main Track welcomes substantial methodological contributions to biomedical image analysis. Submissions may introduce new algorithms, architectures, learning strategies, evaluation methods, or theoretical insights. Authors should justify the clinical or biomedical relevance of the problem and evaluate their contribution against appropriate baselines.</p>
 
-<p>Papers in this track may be up to 10 pages at submission, excluding references, acknowledgements, and appendices.</p>
+<p>Papers in this track may be up to 10 pages at submission (up to 12 pages after rebuttal), excluding references, acknowledgements, and appendices.</p>
 </div>
 
 **2. Special Track - Clinical Translation & Validation:**
@@ -62,7 +62,7 @@ Topics of interest include, but are not limited to:
 <div style="text-align: justify">
 <p>Submissions should clearly describe the study design, data provenance, reference standards, evaluation populations, statistical methods, and limitations. Authors should distinguish internal testing from genuinely external testing and report performance across clinically relevant subgroups where appropriate. Private data are welcome when their use is ethically justified but reproducibility through public data, shared code, executable models, or openly described protocols is strongly encouraged.</p>
 
-<p>Papers in this track may be up to 14 pages at submission, excluding references, acknowledgements, and appendices.</p>
+<p>Papers in this track may be up to 14 pages at submission (up to 16 pages after rebuttal), excluding references, acknowledgements, and appendices.</p>
 </div>
 
 ## Short Papers
@@ -70,9 +70,9 @@ Topics of interest include, but are not limited to:
 <div style="text-align: justify">
 <p>Short papers may present promising early-stage work, novel ideas without extensive validation, position or perspective contributions, negative or replication results, or recent journal work of interest to the MIDL community.</p>
 
-<p>Short papers are limited to 3 pages, excluding references. The main manuscript must be self-contained, so no appendices are allowed.</p>
+<p>Short papers are limited to 3 pages, excluding references. The main manuscript must be self-contained so, no appendices are allowed.</p>
 
-<p>Please notice that the short paper track opens after the full-paper review cycle is completed.</p>
+<p>Please notice that the short paper track opens after the full-paper review cycle is completed (TBD).</p>
 </div>
 
 ## Contacts

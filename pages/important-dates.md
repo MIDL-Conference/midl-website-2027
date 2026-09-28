@@ -18,10 +18,10 @@ title: "Important Dates"
 * **Camera-ready deadline:** 12 March, 2027
 
 ## Short Papers
-* **Short paper submission deadline:** 02 April, 2027
-* **Reviews deadline:** 23 April, 2027
-* **Authors notification:** 30 April, 2027
-* **Camera-ready deadline:** 28 May, 2027
+* **Short paper submission deadline:** TBD
+* **Reviews deadline:** TBD
+* **Authors notification:** TBD
+* **Camera-ready deadline:** TBD
 
 ## Conference Dates
 * **Main event:** 14-16 July 2027
