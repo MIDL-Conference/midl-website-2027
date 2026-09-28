@@ -1,3 +1,7 @@
 [build]
   command = "python -c \"import netlify_patch_mwb; import runpy; runpy.run_module('mwb', run_name='__main__')\" . output/"
   publish = "output/"
+
+[build.environment]
+  # Python 3.8 builds predate GitHub attestations, which newer mise versions verify by default.
+  MISE_PYTHON_GITHUB_ATTESTATIONS = "false"
