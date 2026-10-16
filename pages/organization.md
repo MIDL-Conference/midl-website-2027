@@ -2,34 +2,40 @@
 title: "Organization"
 ---
 
-# Organization
+# Organizers
 
 ## General Chairs
-* **Jaime S. Cardoso**, FEUP & INESCTEC, PT
-* **April Khademi**, Toronto Met, CA
-* **Hugo Horlings**, NKI, NL
+* [**Jaime Cardoso**](https://www.linkedin.com/in/jaime-cardoso-77a89213/){: target="_blank"}, FEUP & INESCTEC, PT
+* [**April Khademi**](https://www.linkedin.com/in/aprilkhademi/){: target="_blank"}, Toronto Met, CA
+* [**Hugo Horlings**](https://www.linkedin.com/in/hugo-horlings-aa326014/){: target="_blank"}, NKI, NL
 
 ## Local Chair
-* **Luís F. Teixeira**, FEUP & INESCTEC, PT
+* [**Luís F. Teixeira**](https://www.linkedin.com/in/luisfteixeira/){: target="_blank"}, FEUP & INESCTEC, PT
 
 ## Program Chairs
-* **Wilson Silva**, Utrecht University, NL
-* **Sara P. Oliveira**, NKI, NL
-* **Inês Prata Machado**, Uni. Cambridge, UK
-* **Mara Graziani**, IBM Research, CH
+* [**Wilson Silva**](https://www.linkedin.com/in/wilsonsilva19/){: target="_blank"}, Utrecht University, NL
+* [**Sara P. Oliveira**](https://www.linkedin.com/in/sara-pires-oliveira/){: target="_blank"}, NKI, NL
+* [**Inês Prata Machado**](https://www.linkedin.com/in/ipmachado/){: target="_blank"}, Uni. Cambridge, UK
+* [**Mara Graziani**](https://www.linkedin.com/in/mara-graziani-878980105/){: target="_blank"}, IBM Research, CH
 
 ## Doctoral Symposium Chairs
-* **Isabel Rio-Torto**, INESCTEC, PT
-* **Aniek Eijpe**, Utrecht University, NL
-* **Bruno Coelho**, INESCTEC, PT
+* [**Isabel Rio-Torto**](https://www.linkedin.com/in/icrto/){: target="_blank"}, INESCTEC, PT
+* [**Aniek Eijpe**](https://www.linkedin.com/in/aniek-eijpe/){: target="_blank"}, Utrecht University, NL
+* [**Bruno Coelho**](https://www.linkedin.com/in/bfonsecaoc/){: target="_blank"}, INESCTEC, PT
 
 ## Communication Chairs
-* **Diana Montezuma**, IMP Diagnostics, PT
-* **Sara P. Oliveira**, NKI, NL
-* **Pedro C. Neto**, Unilabs & FEUP, PT
+* [**Diana Montezuma**](https://www.linkedin.com/in/diana-montezuma-felizardo-a77a6419b/){: target="_blank"}, IMP Diagnostics, PT
+* [**Sara P. Oliveira**](https://www.linkedin.com/in/sara-pires-oliveira/){: target="_blank"}, NKI, NL
+* [**Pedro C. Neto**](https://www.linkedin.com/in/pedro-c-neto-a94862106/){: target="_blank"}, Unilabs & FEUP, PT
 
 ## Proceedings Chair
-* **Helena Montenegro**, INESCTEC, PT
+* [**Helena Montenegro**](https://www.linkedin.com/in/helena-montenegro-685822198/){: target="_blank"}, INESCTEC, PT
 
 ## Sponsorships Chair
-* **Valentina Corbetta**, NKI, NL
+* [**Valentina Corbetta**](https://www.linkedin.com/in/valentina-corbetta/){: target="_blank"}, NKI, NL
+
+---
+# Supporting organization
+[% .institutions %]
+[![Faculty of Engineering of University of Porto](/assets/logos/FEUP_logo.png){: width="300"}](https://www.up.pt/feup/en/){: target="_blank"}
+[% / %]

@@ -13,5 +13,5 @@ title: "Aims and scope"
 
 <p>MIDL currently offers a three-day program with keynote presentations from invited speakers, oral presentations, posters, and live demonstrations of deep learning algorithms from academia and industry.</p>
 
-<p>We are committed to openness and transparency. We perform an [open review process](https://openreview.net/group?id=MIDL.io), have open access for all papers presented at MIDL, are transparent with regard to sponsorship packages and involvement from industry at the conference, provide freely available recordings of all presentations on the MIDL website, and we will urge MIDL contributors to use an open access policy as much as possible for the data and code.</p>
+<p>We are committed to openness and transparency. We perform an <a href=https://openreview.net/group?id=MIDL.io)>open review process</a>, have open access for all papers presented at MIDL, are transparent with regard to sponsorship packages and involvement from industry at the conference, provide freely available recordings of all presentations on the MIDL website, and we will urge MIDL contributors to use an open access policy as much as possible for the data and code.</p>
 </div>
