@@ -3,8 +3,6 @@ title: "Call for Papers"
 ---
 # Call for Papers
 
-## MIDL 2027 · Porto, Portugal · 14-16 July
-
 <div style="text-align: justify">
 <p>The Medical Imaging with Deep Learning (MIDL) Conference is an international forum for research at the intersection of deep learning, biomedical imaging, and healthcare. MIDL brings together researchers, clinicians, healthcare professionals, and industry to share methodological advances, rigorous validation studies, and insights into the responsible translation of artificial intelligence into clinical practice.</p>
 

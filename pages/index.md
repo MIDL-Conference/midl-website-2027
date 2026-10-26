@@ -6,6 +6,9 @@ page_class: home
 
 # Medical Imaging with Deep Learning
 ## Porto, July 14-16 2027
+<div style="text-align: center">
+Faculdade de Engenharia da Universidade do Porto
+<div>
 
 <p class="primary-photo centered">
     <img alt="MIDL 2027 will be held in beautiful Porto" src="/images/keyimage.jpeg">
