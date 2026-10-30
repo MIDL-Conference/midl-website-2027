@@ -33,7 +33,7 @@ MIDL 2027 offers two full-paper tracks and one short-paper track:
 
 <p>Accepted full papers will be published in the <a href=https://proceedings.mlr.press>Proceedings of Machine Learning Research (PMLR).</a> Selected papers will be invited for oral presentation. Short papers will undergo a lighter review process and will not be included in the PMLR proceedings.</p>
 
-<p>At least one co-author of each accepted paper must register and present the work in person, subject to the conference's accessibility and exceptional-circumstances policies.</p>
+<p>At least one co-author of each accepted paper must register and present the work in person.</p>
 </div>
 
 ## Authorship Policy
