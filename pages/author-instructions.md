@@ -31,6 +31,8 @@ MIDL 2027 offers two full-paper tracks and one short-paper track:
 <div style="text-align: justify">
 <p>Full-papers will undergo peer review, author rebuttal, and discussion. Reviews will be single-blind: reviewers will know the authors' identities, while reviewer identities will not be disclosed to authors.</p>
 
+<p>All submissions, along with the authors' names, will be made public after the deadline for full submissions. After the review process, only accepted papers will remain visible to the public in the OpenReview page.</p>
+
 <p>Accepted full papers will be published in the <a href=https://proceedings.mlr.press>Proceedings of Machine Learning Research (PMLR).</a> Selected papers will be invited for oral presentation. Short papers will undergo a lighter review process and will not be included in the PMLR proceedings.</p>
 
 <p>At least one co-author of each accepted paper must register and present the work in person.</p>
