@@ -31,7 +31,7 @@ MIDL 2027 offers two full-paper tracks and one short-paper track:
 <div style="text-align: justify">
 <p>Full-papers will undergo peer review, author rebuttal, and discussion. Reviews will be single-blind: reviewers will know the authors' identities, while reviewer identities will not be disclosed to authors.</p>
 
-<p>All submissions, along with the authors' names, will be made public after the full papers deadline. After the review process, only accepted papers will remain publicly visible in OpenReview.</p>
+<p>All submissions, along with the authors' names, will be made public after the full paper deadline. After the review process, only accepted papers will remain publicly visible in OpenReview.</p>
 
 <p>Accepted full papers will be published in the <a href=https://proceedings.mlr.press>Proceedings of Machine Learning Research (PMLR).</a> Selected papers will be invited for oral presentation. Short papers will undergo a lighter review process and will not be included in the PMLR proceedings.</p>
 
@@ -44,20 +44,18 @@ MIDL 2027 offers two full-paper tracks and one short-paper track:
 <p>The author list must be final at the time of submission of the full-paper. Additions, removals, or order changes after the submission deadline are not permitted (except minor spelling or affiliation corrections approved by the Program Chairs).</p>
 </div>
 
-## Policy on the use of Large Language Models
+## Policy on the use of Large Language Models (updated on 24/11)
 
 <div style="text-align: justify">
 <p>MIDL 2027 welcomes the responsible use of modern tools, including Large Language Models (LLMs), when preparing submissions, provided that authors maintain scientific integrity, originality, and full responsibility for all content.</p>
 
-<p><b>Permitted uses:</b> LLMs and other assistive tools may be used only for minor language edits, such as grammar, spelling, style refinement, readability improvements, or formatting.</p>
+<p>Authors may use AI tools to edit the language of their own text, including to translate it.</p>
 
-<p><b>Prohibited uses:</b> Generating research ideas, study designs, analyses, results, or substantive text with an LLM is not allowed. All scientific contributions must originate from the authors.</p>
+<p>AI tools must not generate the ideas, study design, analyses, results or substantive text of your paper. Using AI coding assistants to help write software does not count as AI-generated analysis, but the authors are responsible for checking the code and what it produces.</p>
 
-<p><b>Responsibility:</b> Authors are accountable for the accuracy, originality, and ethical standards of their manuscript, regardless of which tools they used. LLMs may not be credited as authors.</p>
+<p>Authors are responsible for every word, figure, reference and result in the submission. Obligations for the data used, under the laws, ethics approvals and data-usage agreements that apply in each case, also cover any data put into AI tools; MIDL does not review or verify this.</p>
 
-<p><b>Data & privacy:</b> Some tools store or reuse text for model training. Authors should avoid entering sensitive or unpublished data into third-party services unless appropriate safeguards are in place.</p>
-
-<p><b>General Guidance:</b> LLMs must never replace authors’ critical thinking, due diligence, or validation of references and claims; Only humans may be listed as authors; Violations may result in desk rejection, withdrawal after acceptance, or other corrective actions.</p>
+<p>Authors may add a short statement at the end of the paper describing how AI tools were used.</p>
 </div>
 
 ## Contacts

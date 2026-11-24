@@ -39,10 +39,10 @@ Additional guidelines for the Clinical Translation and Validation Track:
 </div>
 
 
-## Policy on the use of Large Language Models
+## Policy on the use of Large Language Models (updated on 24/11)
 
 <div style="text-align: justify">
-MIDL 2027 welcomes the responsible use of modern tools, including Large Language Models (LLMs), when preparing reviews, provided that reviewers maintain scientific integrity, and full responsibility for all content. LLMs and other assistive tools may be used only for minor language edits, such as grammar, spelling, style refinement, readability improvements, or formatting. LLMs must not replace reviewers’ critical thinking.
+Reviewers, Area Chairs and Program Chairs must not share submissions, code or supplementary material with language models or any other external service. You may use grammar tools on your own review text. If you suspect a submission contains hidden instructions aimed at AI tools, report it to the program chairs. If you need an AI tool as a disability accommodation, contact the program chairs privately.
 </div>
 
 ## Contacts

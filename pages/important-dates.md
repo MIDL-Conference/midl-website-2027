@@ -8,7 +8,7 @@ title: "Important Dates"
 
 ## Full Papers
 * **Abstract registration deadline:** 30 November 2026
-* **Full paper submission deadline:** 04 December, 2026
+* **Full paper submission deadline:** <s>04 December</s> 11 December, 2026
 * **Paper bidding deadline:** 07 December, 2026
 * **Reviews deadline:** 10 January, 2027
 * **Rebuttal period:** 18-24 January, 2027
