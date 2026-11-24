@@ -22,7 +22,7 @@ MIDL 2027 offers two full-paper tracks and one short-paper track:
 
 <p>To submit a paper, all authors must have a valid and updated OpenReview account. Please notice that new accounts created without an institutional email will go through a moderation process than can take some time.</p>
 
-<p>Please ensure that your paper is registered on the system before the abstract registration deadline. No new submissions will be accepted after this date.</p>
+<p>Please ensure that your paper is registered on the system before the abstract registration deadline. Existing submissions can be edited after the abstract registration deadline, but no new submissions will be accepted after this date.</p>
 
 <p>Full-paper submissions substantially similar to work accepted by, or simultaneously submitted to, another archival conference are not permitted. Posting a preprint or presenting work at a non-archival workshop does not by itself constitute prior or dual publication.</p>
 </div>
